@@ -22,7 +22,7 @@ LineBot Designer
 <a href="https://www.heroku.com/" title="Heroku">Heroku</a>
 
 ## 流程
-<img src="https://github.com/Microfish31/SceneLineBot/blob/main/Flow_Chart.png" width="80%"/>
+<img src="https://github.com/Microfish31/PeopleFlow_Magnifier/blob/main/Photos/Flow_Chart.png" width="80%"/>
 
 # Photo
 <img src="https://github.com/Microfish31/PeopleFlow_Magnifier/blob/main/Photos/Introduction1.jpg" width="30%"/>
