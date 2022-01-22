@@ -25,5 +25,6 @@ LineBot Designer
 <img src="https://github.com/Microfish31/SceneLineBot/blob/main/Flow_Chart.png" width="80%"/>
 
 # Photo
-<img src="https://github.com/Microfish31/SceneLineBot/blob/main/Introduction.png" width="30%"/>
+<img src="https://github.com/Microfish31/PeopleFlow_Magnifier/blob/main/Photos/Introduction1.jpg" width="30%"/>
+<img src="https://github.com/Microfish31/PeopleFlow_Magnifier/blob/main/Photos/Introduction2.jpg" width="30%"/>
 
